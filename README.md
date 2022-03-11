@@ -1,2 +1,2 @@
 # click
-command line interface (CLI) using click
+Command line interface (CLI) using click
